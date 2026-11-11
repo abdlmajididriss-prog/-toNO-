@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Deep Navy Rounded Container -->
+    <path
+        android:fillColor="#0A192F"
+        android:pathData="M 22,6 H 74 A 18,18 0 0 1 92,24 V 72 A 18,18 0 0 1 74,90 H 22 A 18,18 0 0 1 4,72 V 24 A 18,18 0 0 1 22,6 Z" />
+
+    <!-- Container Border Glow -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#22D3EE"
+        android:strokeAlpha="0.3"
+        android:strokeWidth="1.5"
+        android:pathData="M 22,6 H 74 A 18,18 0 0 1 92,24 V 72 A 18,18 0 0 1 74,90 H 22 A 18,18 0 0 1 4,72 V 24 A 18,18 0 0 1 22,6 Z" />
+
+    <!-- Calendar Body -->
+    <path
+        android:fillColor="#132B47"
+        android:pathData="M 28,26 H 68 A 8,8 0 0 1 76,34 V 74 A 8,8 0 0 1 68,82 H 28 A 8,8 0 0 1 20,74 V 34 A 8,8 0 0 1 28,26 Z" />
+
+    <!-- Calendar Top Header Bar (Turquoise) -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M 28,26 H 68 A 8,8 0 0 1 76,34 V 40 H 20 V 34 A 8,8 0 0 1 28,26 Z" />
+
+    <!-- Binder Rings -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 32,21 H 36 A 2,2 0 0 1 38,23 V 31 A 2,2 0 0 1 36,33 H 32 A 2,2 0 0 1 30,31 V 23 A 2,2 0 0 1 32,21 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 60,21 H 64 A 2,2 0 0 1 66,23 V 31 A 2,2 0 0 1 64,33 H 60 A 2,2 0 0 1 58,31 V 23 A 2,2 0 0 1 60,21 Z" />
+
+    <!-- Calendar Subtle Grid Dots -->
+    <path
+        android:fillColor="#38BDF8"
+        android:fillAlpha="0.25"
+        android:pathData="M 32,50 A 2,2 0 1 1 32,46 A 2,2 0 1 1 32,50 Z
+                          M 48,50 A 2,2 0 1 1 48,46 A 2,2 0 1 1 48,50 Z
+                          M 64,50 A 2,2 0 1 1 64,46 A 2,2 0 1 1 64,50 Z
+                          M 32,62 A 2,2 0 1 1 32,58 A 2,2 0 1 1 32,62 Z
+                          M 48,62 A 2,2 0 1 1 48,58 A 2,2 0 1 1 48,62 Z
+                          M 64,62 A 2,2 0 1 1 64,58 A 2,2 0 1 1 64,62 Z
+                          M 32,74 A 2,2 0 1 1 32,70 A 2,2 0 1 1 32,74 Z
+                          M 48,74 A 2,2 0 1 1 48,70 A 2,2 0 1 1 48,74 Z
+                          M 64,74 A 2,2 0 1 1 64,70 A 2,2 0 1 1 64,74 Z" />
+
+    <!-- Bold Cyan Checkmark -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 30,56 L 43,69 L 71,37" />
+
+    <!-- Glowing Star Aura -->
+    <path
+        android:fillColor="#06B6D4"
+        android:fillAlpha="0.4"
+        android:pathData="M 73,19 A 8,8 0 1 1 73,3 A 8,8 0 1 1 73,19 Z" />
+
+    <!-- Glowing Four-Point Star Shape (Cyan & White) -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M 73,3 Q 73,11 65,11 Q 73,11 73,19 Q 73,11 81,11 Q 73,11 73,3 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 73,12 A 1.5,1.5 0 1 1 73,9 A 1.5,1.5 0 1 1 73,12 Z" />
+
+</vector>

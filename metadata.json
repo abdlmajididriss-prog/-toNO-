@@ -1,0 +1,8 @@
+{
+  "name": "Remix منظمي الشخصي",
+  "description": "تطبيق متكامل ومنظم شخصي باللغة العربية مع تتبع المهام، اليوميات والتقويم، الملاحظات والميزانية الشخصية مع الحفظ المحلي والوضع الليلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
